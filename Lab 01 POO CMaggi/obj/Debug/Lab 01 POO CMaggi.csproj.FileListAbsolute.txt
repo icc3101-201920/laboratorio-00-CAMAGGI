@@ -1,0 +1,2 @@
+C:\Users\crist\source\repos\Lab 01 POO CMaggi\Lab 01 POO CMaggi\obj\Debug\Lab 01 POO CMaggi.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\Lab 01 POO CMaggi\Lab 01 POO CMaggi\obj\Debug\Lab 01 POO CMaggi.csproj.CoreCompileInputs.cache
